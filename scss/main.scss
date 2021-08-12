@@ -41,6 +41,12 @@
 @import "./base/typography";
 @import "./base/page";
 
+// Components
+@import "./components/actions";
+@import "./components/box";
+@import "./components/button";
+@import "./components/contact";
+
 // Layout
 @import "./layout/intro";
 @import "./layout/footer";
