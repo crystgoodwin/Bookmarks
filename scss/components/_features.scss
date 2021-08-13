@@ -9,8 +9,8 @@
   margin: 0 0 _size(element-margin) 0;
 
   section {
-    @include padding(3em, 3em, (0.5em, 0, 0, 4em));
-    width: 50%;
+    @include padding(1.5em, 1em, (0.5em, 0, 0, 1em));
+    width: 25%;
     border-top: solid 1px _palette(border);
     position: relative;
 
